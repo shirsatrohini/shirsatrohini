@@ -36,9 +36,7 @@
 <a href="https://www.instagram.com/rohini.shirsat.180/"><img src="https://img.shields.io/badge/-@rohinis__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
-<p align="center">
-![Profile views](https://gpvc.arturio.dev/shirsatrohini)
-</center>
+
 
  
 
