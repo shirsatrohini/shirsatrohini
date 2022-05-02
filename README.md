@@ -1,6 +1,6 @@
-<h2>Hey there! I'm Rohini</h2>
+## Hey there! I'm Rohini
 
-<h3> 👨🏻‍💻 &nbsp;About Me</h3>
+### 👨🏻‍💻 &nbsp;About Me
 
  
 &nbsp;Interested in django devploment and python\
@@ -9,7 +9,7 @@
 &nbsp;looking for Intership\
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-<h3> 🛠 &nbsp;Tech Stack </h3>
+### 🛠 &nbsp;Tech Stack 
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)
@@ -21,7 +21,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<h3> ⚙️ &nbsp;GitHub Analytics </h3>
+### ⚙️ &nbsp;GitHub Analytics 
 
 <p align="center">
 <a href="https://github.com/shirsatrohini">
@@ -30,10 +30,11 @@
 </a>
 </p>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+### 🤝🏻 &nbsp;Connect with Me 
 
 <p align="center">
 <a href="www.linkedin.com/in/shirsatrohini98"><img src="https://img.shields.io/badge/-Rohini%20Sunil%20Shirsat-0077B5?style=flat&logo=Linkedin&logoColor=whitee"/></a>
+<a href="mailto:shirsatrohini66@gmail.com"><img src="https://img.shields.io/badge/mail-shirsatrohini66%40gmail.com-red"/></a>
 <a href="https://www.instagram.com/rohini.shirsat.180/"><img src="https://img.shields.io/badge/-@rohinis__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
