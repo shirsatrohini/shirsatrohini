@@ -34,7 +34,6 @@
 
 <p align="center">
 <a href="www.linkedin.com/in/shirsatrohini98"><img src="https://img.shields.io/badge/-Rohini%20Sunil%20Shirsat-0077B5?style=flat&logo=Linkedin&logoColor=whitee"/></a>
-<a href="mailto:shirsatrohini66@gmail.com"><img src="https://img.shields.io/badge/mail-shirsatrohini66%40gmail.com-red"/></a>
 <a href="https://www.instagram.com/rohini.shirsat.180/"><img src="https://img.shields.io/badge/-@rohinis__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
