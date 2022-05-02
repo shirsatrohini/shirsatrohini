@@ -14,7 +14,7 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&n
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
@@ -35,12 +35,6 @@
 <a href="mailto:shirsatrohini66@gmail.com"><img src="https://img.shields.io/badge/mail-shirsatrohini66%40gmail.com-red"/></a>
 <a href="https://www.instagram.com/rohini.shirsat.180/"><img src="https://img.shields.io/badge/-@rohinis__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
-
-<h3> Spotify Playing 🎧</h3>
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
-
-
 
 <p align="center">
 ![Profile views](https://gpvc.arturio.dev/shirsatrohini)
