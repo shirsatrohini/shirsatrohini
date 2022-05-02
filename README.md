@@ -3,10 +3,10 @@
 <h3> 👨🏻‍💻 &nbsp;About Me</h3>
 
  
-&nbsp;Interested in django devploment and python
-&nbsp;currently learning thinker and coinmarketcap API ,Twitter bot  and padans
-&nbsp;I like to explore new technologies and develop software solutions
-&nbsp;looking for Intership
+&nbsp;Interested in django devploment and python\
+&nbsp;currently learning thinker and coinmarketcap API ,Twitter bot  and padans\
+&nbsp;I like to explore new technologies and develop software solutions\
+&nbsp;looking for Intership\
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 <h3> 🛠 &nbsp;Tech Stack </h3>
