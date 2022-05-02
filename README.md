@@ -2,13 +2,14 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
- 
+---
 &nbsp;Interested in django devploment and python\
 &nbsp;currently learning thinker and coinmarketcap API ,Twitter bot  and padans\
 &nbsp;I like to explore new technologies and develop software solutions\
 &nbsp;looking for Intership\
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
+---
 ### 🛠 &nbsp;Tech Stack 
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
@@ -21,6 +22,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+---
 ### ⚙️ &nbsp;GitHub Analytics 
 
 <p align="center">
@@ -30,6 +32,7 @@
 </a>
 </p>
 
+---
 ### 🤝🏻 &nbsp;Connect with Me 
 
 <p align="center">
